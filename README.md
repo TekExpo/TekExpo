@@ -10,8 +10,8 @@ A Technology evangelist who is keen to learn new technologies and believes in th
 **TekExpo/TekExpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💬 Reach me at [... How to reach me:](https://twitter.com/jadhav_jeet)
-- 📫 Read my blogspots: [...](https://tekexpo.wordpress.com/)
+- 💬 Reach me at [(https://twitter.com/jadhav_jeet](https://twitter.com/jadhav_jeet)
+- 📫 Read my blogspots: [(https://tekexpo.wordpress.com/)](https://tekexpo.wordpress.com/)
 - 😄 Pronouns: AJ, Jeet
 - ⚡ Fun fact: My twins have nothing in common
 
